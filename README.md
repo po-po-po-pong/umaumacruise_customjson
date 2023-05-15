@@ -5,13 +5,13 @@
 
 ウマウマクルーズ本体は本家様のリポジトリからダウンロード可能です。  
 https://github.com/amate/UmaUmaCruise
-***
+
 ## 本家様の更新について
 2022/11/14に本家様の更新が再開されております。  
 予めUmaUmaCruise内の更新ボタンで本家様のJSONファイルを最新化しておいてください。  
 ※本ファイルを上書きした後に更新ボタンを押すと本家様のファイルで更新されますのでご注意ください。
 
-## ダウンロード方法
+## ダウンロード・導入方法
 以下の手順でダウンロードしてください。  
 1.JSONファイルをクリックします。  
 ![use_git_01](https://github.com/po-po-po-pong/umaumacruise_customjson/assets/133661790/db53b872-0db3-4c6d-92bd-d001d5539548)
@@ -25,11 +25,10 @@ https://github.com/amate/UmaUmaCruise
 4.JSONファイルが表示されますのでUmaUmaCruiseのフォルダへ上書きしてください。  
 ![use_git_04](https://github.com/po-po-po-pong/umaumacruise_customjson/assets/133661790/9a15ee64-643e-419d-97eb-1b78017beb17)
 
-## 導入方法
 UmaUmaCruiseが格納されているフォルダにあるUmaLibraryのJSONファイルに上書きします。  
 ※元のファイルはバックアップをお勧めします。  
 ※キャラクタ・サポートカード以外の情報は本家様のJSONファイルをご利用ください。
-***
+
 ## データの取得元について
 データはGameWith様より取得しています。
 
