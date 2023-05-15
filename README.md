@@ -1,0 +1,2 @@
+# umaumacruise_customjson
+非公式版のウマウマクルーズ用JSONファイルを配布しています。
