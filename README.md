@@ -14,16 +14,16 @@ https://github.com/amate/UmaUmaCruise
 ## ダウンロード・導入方法
 以下の手順でダウンロードしてください。  
 1.JSONファイルをクリックします。  
-![use_git_01](https://github.com/po-po-po-pong/umaumacruise_customjson/assets/133661790/db53b872-0db3-4c6d-92bd-d001d5539548)
- 
+![use_git_01](https://github.com/po-po-po-pong/umaumacruise_customjson/assets/133661790/b6201695-b845-4bd6-965f-78038ba40290)
+
 2.ダウンロードボタンをクリックします。  
-![use_git_02](https://github.com/po-po-po-pong/umaumacruise_customjson/assets/133661790/8cb7ceae-419a-42ca-bc9a-b37f0720e6cd)
+![use_git_02](https://github.com/po-po-po-pong/umaumacruise_customjson/assets/133661790/48fae87f-1d86-4abf-9fe0-0c160ddba481)
 
 3.ダウンロードが完了すると通知が出ますので、フォルダボタンをクリックします。(Edgeの場合の例)  
-![use_git_03](https://github.com/po-po-po-pong/umaumacruise_customjson/assets/133661790/db801f74-26bd-4cbb-80cb-0278d5e5b5ed)
+![use_git_03](https://github.com/po-po-po-pong/umaumacruise_customjson/assets/133661790/09bb3efc-654d-4062-8fed-c2e8162346a6)
 
 4.JSONファイルが表示されますのでUmaUmaCruiseのフォルダへ上書きしてください。  
-![use_git_04](https://github.com/po-po-po-pong/umaumacruise_customjson/assets/133661790/9a15ee64-643e-419d-97eb-1b78017beb17)
+![use_git_04](https://github.com/po-po-po-pong/umaumacruise_customjson/assets/133661790/20203fec-fe4f-4540-9ae9-c853d9737f4f)
 
 UmaUmaCruiseが格納されているフォルダにあるUmaLibraryのJSONファイルに上書きします。  
 ※元のファイルはバックアップをお勧めします。  
