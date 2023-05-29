@@ -1,4 +1,4 @@
-# umaumacruise_customjson
+﻿# umaumacruise_customjson
 ## このファイルについて
 ウマウマクルーズ(UmaUmaCruise)の非公式版JSONファイルです。  
 本ファイルは自己責任での使用および、ノークレームでお願いします。
@@ -34,7 +34,16 @@ UmaUmaCruiseが格納されているフォルダにあるUmaLibraryのJSONファ
 
 ## 更新履歴
 <pre>
-2023/05/19
+22023/05/29
+  キャラクタ追加
+    ☆3 【Hungry Veil】ヒシアマゾン
+    ☆3 【Sweet Juneberry】ニシノフラワー
+  サポートカード追加
+    SSR ［Something Blue］ダイワスカーレット
+    SSR ［オートクチュール・メモリー］アストンマーチャン
+    SSR ［ハート・イグニッション！！］ウオッカ
+
+023/05/19
   キャラクタ追加
     ☆3 【身に纏うケラヴノス】タニノギムレット
   サポートカード追加
