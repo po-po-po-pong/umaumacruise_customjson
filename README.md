@@ -40,8 +40,19 @@ ZIPファイルでダウンロードする事も可能です。
 ## データの取得元について
 データはGameWith様より取得しています。
 
+## UmaUmaCruise更新元変更ツール について
+本ツールを利用するとUmaUmaCruiseでの更新確認を行う際に、取得元を変更する事ができます。  
+実行には .NET Framework 4.8 が必要となります。  
+https://dotnet.microsoft.com/ja-jp/download/dotnet-framework/net48
+
+UpdUUCSフォルダからダウンロードしてください。  
+※exeファイルとconfigファイルの両方が必要となります。
+
 ## 更新履歴
 <pre>
+2023/12/15
+  UmaUmaCruise更新元変更ツール(UpdUUCS)を追加
+
 2023/12/11
   キャラクタ追加
     ☆3 【黒翠千里行】サトノクラウン
