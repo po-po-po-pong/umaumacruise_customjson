@@ -50,6 +50,14 @@ UpdUUCSフォルダからダウンロードしてください。
 
 ## 更新履歴
 <pre>
+2024/10/29
+  キャラクタ追加
+    ☆3 【Engineerd Victory】ビワハヤヒデ
+  サポートカード追加
+    SSR ［Cocoon］エアシャカール
+    SSR ［緋色の君へ風が吹く］ダイワスカーレット
+  SkillLibrary.jsonの更新
+
 2024/10/18
   SkillLibrary.jsonの更新
 
