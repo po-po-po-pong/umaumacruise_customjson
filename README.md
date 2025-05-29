@@ -50,6 +50,14 @@ UpdUUCSフォルダからダウンロードしてください。
 
 ## 更新履歴
 <pre>
+2025/05/29
+  キャラクタ追加
+    ☆3 【Twinbell Queen】シーザリオ
+    ☆3 【Untouchable Eden】メジロラモーヌ
+  サポートカード追加
+    SSR ［Blooming Buds］デアリングハート
+    SSR ［Unveiled Dream］ラインクラフト
+
 2025/05/21
   キャラクタ追加
     ☆3 【9927 Wishes】ラヴズオンリーユー
