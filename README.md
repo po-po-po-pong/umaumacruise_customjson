@@ -50,6 +50,14 @@ UpdUUCSフォルダからダウンロードしてください。
 
 ## 更新履歴
 <pre>
+2025/07/25
+  キャラクタ追加
+    ☆3 【Assorted Cuteness♡】フサイチパンドラ
+    ☆3 【Eternal Fairytale】ラインクラフト
+  サポートカード追加
+    SSR ［ゼッタイ☆天才伝説］フサイチパンドラ
+  SkillLibrary.jsonの更新
+
 2025/07/12
   キャラクタ追加
     ☆3 【Hello Hello Island】アイネスフウジン
